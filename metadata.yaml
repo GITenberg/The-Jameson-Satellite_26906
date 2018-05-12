@@ -1,0 +1,29 @@
+_repo: The-Jameson-Satellite_26906
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Jones, Neil R.
+    alias: Jones, Neil Ronald
+    birthdate: 1909
+    deathdate: 1988
+    gutenberg_agent_id: '32321'
+    url: http://www.gutenberg.org/2009/agents/32321
+    wikipedia: http://en.wikipedia.org/wiki/Neil_R._Jones
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2008-10-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26906'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+title: The Jameson Satellite
+url: http://www.gutenberg.org/ebooks/26906
