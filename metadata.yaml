@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32321
     wikipedia: http://en.wikipedia.org/wiki/Neil_R._Jones
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26906#The-Jameson-Satellite
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2008-10-13'
 gutenberg_type: Text
